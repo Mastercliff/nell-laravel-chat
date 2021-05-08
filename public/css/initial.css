@@ -1,0 +1,42 @@
+center{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.title{
+    font: 400 35px 'Lexend';
+    color: #3e403d;
+    margin-top: 20px;
+}
+
+
+.subtitle{
+    font: 400 26px 'Lexend';
+    color: grey;
+    margin-bottom: 25px;
+}
+
+.logout-btn{
+    width: 90px;
+    padding: 12px 15px;
+    margin-left: 20px;
+    cursor: pointer;
+    font: 400 14px 'Lexend';
+    border: solid 1px transparent;
+    border-color: #bd2c13;
+    color: rgb(29, 28, 28);
+    border-radius: 5px;
+    box-shadow: 0px 1px 2px 2px rgba(0, 0, 0, 0.1);
+  }
+
+footer{
+
+    margin-top: 20px;
+    font: 600 15px 'Lexend';
+    text-align: center;
+    color: rgb(36, 36, 36);
+}

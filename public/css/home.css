@@ -1,0 +1,44 @@
+/* control + all + c */
+
+a:link{
+  text-decoration: none;
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-button{
+  text-align: center;
+  width: 120px;
+  padding: 10px 0px;
+  font: 400 16px 'Lexend';
+  color: #ffffff;
+  background-color: #05AC72;
+  border: solid 1px #cdcdce;
+  border-radius: 5px;
+  transition: all 0.1s;
+}
+
+.login-button:hover{
+  background-color: #059261;
+}
+
+.register-button{
+  text-align: center;
+  width: 120px;
+  padding: 10px 0px;
+  font: 400 16px 'Lexend';
+  color: #05AC72;
+  background-color: #ffffff;
+  border: solid 1px #cdcdce;
+  border-radius: 5px;
+}
+
+.register-button:hover{
+
+  background-color:  #e0dddd;
+}
