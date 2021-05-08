@@ -5,11 +5,17 @@
 #### Download
     git clone https://github.com/Mastercliff/nell-laravel-chat.git
 
+    cd nell-laravel-chat
+
 #### Configurar .env
 
 > Basta criar uma cópia do arquivo .env.example, renomeá-lo para .env e gerar uma chave com o comando abaixo
 
     php artisan key:generate
+
+> Caso a chave não seja inserida automaticamente dentro do .env em APP_KEY, então gere a chave com o comando abaixo, copia a chave que aparecer e insira em APP_KEY no .env
+
+    php artisan key:generate --show
 
 
 #### Compilar e Preparar
