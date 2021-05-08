@@ -13,7 +13,7 @@
 
     php artisan key:generate
 
-> Caso a chave não seja inserida automaticamente dentro do .env em APP_KEY, então gere a chave com o comando abaixo, copia a chave que aparecer e insira em APP_KEY no .env
+> Caso a chave não seja inserida automaticamente dentro do .env em APP_KEY, então gere a chave com o comando abaixo, copie a chave que aparecer e insira em APP_KEY no .env
 
     php artisan key:generate --show
 
