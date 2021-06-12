@@ -11,13 +11,6 @@
 
 > Basta criar uma cópia do arquivo .env.example, renomeá-lo para .env e gerar uma chave com o comando abaixo
 
-    php artisan key:generate
-
-> Caso a chave não seja inserida automaticamente dentro do .env em APP_KEY, então gere a chave com o comando abaixo, copie a chave que aparecer e insira em APP_KEY no .env
-
-    php artisan key:generate --show
-
-
 #### Compilar e Preparar
 
 > Execute os próximos comandos para instalar e compilar todas as dependências
@@ -27,6 +20,14 @@
     npm install
 
     npm run dev
+    
+    php artisan key:generate
+
+> Caso a chave não seja inserida automaticamente dentro do .env em APP_KEY, então gere a chave com o comando abaixo, copie a chave que aparecer e insira em APP_KEY no .env
+
+    php artisan key:generate --show
+
+
 
 #### Banco de dados
 
