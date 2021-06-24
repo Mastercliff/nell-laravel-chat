@@ -1,4 +1,16 @@
-## Nell Chat
+<p align="center">
+
+ <h2 align="center">Nell Chat</h2>
+  <img  src="./home.png" align="center" alt="" />
+  
+ <h4 align="center">
+ <br>
+<a href="#"><img src="https://img.shields.io/badge/version-alfa-red" alt="version"></a>
+<a href="https://github.com/Mastercliff/guma"><img src="https://img.shields.io/badge/Guma-Notes-green" alt="name"></a>
+<a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-2.0.1-blue" alt="Flutter"></a>
+</h4>
+
+</p>
 
 ### Instalação
 
