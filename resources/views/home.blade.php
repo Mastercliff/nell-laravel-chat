@@ -15,6 +15,9 @@
 @endsection
 
 @section('content')
+<div class="icon">
+  <img width="225px" height="225px" src="./icons/server.png" alt="img">
+</div>
 <div class="row">
   <a href="/login">
   <div class="login-button">
