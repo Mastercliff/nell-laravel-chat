@@ -5,9 +5,9 @@
   
  <h4 align="center">
  <br>
-<a href="#"><img src="https://img.shields.io/badge/version-alfa-red" alt="version"></a>
-<a href="https://github.com/Mastercliff/guma"><img src="https://img.shields.io/badge/Guma-Notes-green" alt="name"></a>
-<a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-2.0.1-blue" alt="Flutter"></a>
+<a href="#"><img src="https://img.shields.io/badge/Laravel-8.12-red" alt="version"></a>
+<a href="https://github.com/Mastercliff/guma"><img src="https://img.shields.io/badge/Nell-Chat-green" alt="name"></a>
+<a href="https://flutter.dev"><img src="https://img.shields.io/badge/Socket-Pusher-purple" alt="Flutter"></a>
 </h4>
 
 </p>
